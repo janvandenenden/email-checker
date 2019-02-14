@@ -1,0 +1,19 @@
+{
+  "name": "@janvandenenden/haveibeenpwned-checker",
+  "bin": {
+    "haveibeenpwned-checker": "./index.js"
+  },
+  "version": "1.0.1",
+  "description": "learning to work with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "email-validator": "^2.0.4",
+    "yargs": "^13.1.0"
+  }
+}
